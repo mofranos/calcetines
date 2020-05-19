@@ -2,3 +2,5 @@ negro
 rojo
 verde
 azul
+amarillo
+violeta
